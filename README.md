@@ -708,6 +708,10 @@ animal-rescue-platform/
 │   │   │
 │   │   └── server.js                     # Express server
 │   │
+│   ├── 📁 database/               # Database seeds
+│   │   └── seed.js
+│   ├── 📁 docs/                   # API Documentation
+│   │   └── API.md
 │   ├── .env.example
 │   └── package.json
 │
